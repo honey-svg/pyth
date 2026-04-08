@@ -1,0 +1,5 @@
+mylist=[1,2,3,4,5]
+list_sum=o
+for num in mylist:
+list_sum=list_sum+ num
+print(list_sum)
