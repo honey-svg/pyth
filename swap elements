@@ -1,0 +1,5 @@
+a=['My','College','Name','is','Kiet']
+print(str(a))
+swa=",".join(a)
+swa=swa.replace("M","m").replace("C","c").replace("N","n").replace("i","I").spilt(',')
+print(str(swa))
